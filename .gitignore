@@ -2,3 +2,7 @@
 *
 !hello-world/
 !hello-world/**
+!certification-app/
+!certification-app/**
+certification-app/**/__pycache__/
+certification-app/**/*.py[cod]
